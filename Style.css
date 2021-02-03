@@ -1,0 +1,26 @@
+body{
+    background-color:paleturquoise;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    
+}
+.abc{
+    padding-top: 50px;
+}
+h1{
+    color:darkviolet;
+    
+    
+}
+label{
+    color:brown;
+}
+input{
+    background-color: beige;
+}
+h3{
+    color: darkorchid;
+    font-family:arial;
+    text-transform: uppercase;
+}
